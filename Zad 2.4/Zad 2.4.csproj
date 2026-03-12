@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Zad_2._4</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Kalkulator 2.3">
+      <HintPath>..\Kalkulator 2.3\bin\Debug\net8.0\Kalkulator 2.3.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

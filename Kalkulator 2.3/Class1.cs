@@ -1,4 +1,6 @@
-﻿namespace Kalkulator_2._3
+﻿using System;
+
+namespace Kalkulator2
 {
     public class MathCalc
     {
